@@ -1,0 +1,16 @@
+{
+  "name": "mobx-react-form-antd",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^4.1.2",
+    "mobx": "^5.15.4",
+    "mobx-react-form": "^2.0.8"
+  }
+}
